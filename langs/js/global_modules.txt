@@ -1,0 +1,9 @@
+@angular
+@ionic
+@loopback
+eslint
+firebase-tools
+nodemon
+to
+typescript
+update
