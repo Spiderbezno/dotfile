@@ -1,0 +1,92 @@
+{
+    // Causes the debug view to automatically appear when a breakpoint is hit. This
+    // setting is global and not configurable per-language.
+    "debug.openDebug": "openOnDebugBreak",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.iconTheme": "material-icon-theme",
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+      "editor.defaultFormatter": "aeschli.vscode-css-formatter"
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "files.exclude": {
+      "**/.classpath": true,
+      "**/.project": true,
+      "**/.settings": true,
+      "**/.factorypath": true
+    },
+    "explorer.confirmDelete": false,
+    "dart.openDevTools": "flutter",
+    "[json]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "openapi.securityAuditToken": "CiAUgVpxuZfOTlBK8VtAeG9gYTR/4dWz/MWgoWiSDMKgRhIYJv/43Ca34vDA5bM2GdiSvcjeua0yvWFtGnAF4clJ5dyc56zHPzbIMZHXZ9xkvtI3TV4slTNls5SxnvO05Lmb2flnd0aBRwP/Z6cm91dkuHDoE7X8VrjeUrMzYQHarFH5d668i9knpaJut4DcE6dKYRMaSH6uVM84M7ftZZEhU+o5Igyfo4Lro3B+",
+    "java.semanticHighlighting.enabled": true,
+    "window.zoomLevel": 1,
+    "dart.lineLength": 150,
+    "[dart]": {
+      "editor.formatOnSave": true,
+      "editor.formatOnType": true,
+      "editor.rulers": [150],
+      "editor.selectionHighlight": false,
+      "editor.suggest.snippetsPreventQuickSuggestions": false,
+      "editor.suggestSelection": "first",
+      "editor.tabCompletion": "onlySnippets",
+      "editor.wordBasedSuggestions": false
+    },
+    "workbench.colorTheme": "Monokai Night",
+    "bracket-pair-colorizer-2.colors": [
+      "#fafafa",
+      "#9F51B6",
+      "#F7C244",
+      "#F07850",
+      "#9CDD29",
+      "#C497D4"
+    ],
+    "auto-close-tag.activationOnLanguage": [
+      "xml",
+      "php",
+      "blade",
+      "ejs",
+      "jinja",
+      "javascript",
+      "javascriptreact",
+      "typescript",
+      "typescriptreact",
+      "plaintext",
+      "markdown",
+      "vue",
+      "liquid",
+      "erb",
+      "lang-cfml",
+      "cfml",
+      "HTML (EEx)",
+      "HTML (Eex)",
+      "plist"
+    ],
+    "[typescript]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "dart.previewFlutterUiGuides": true,
+  "dart.previewFlutterUiGuidesCustomTracking": true,
+  "dart.debugExternalLibraries": false,
+  "dart.debugSdkLibraries": false,
+  "[yaml]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "vs-kubernetes": {
+    "vs-kubernetes.helm-path.mac": "/Users/jorgegomes/.vs-kubernetes/tools/helm/darwin-amd64/helm",
+    "vs-kubernetes.minikube-path.mac": "/Users/jorgegomes/.vs-kubernetes/tools/minikube/darwin-amd64/minikube",
+    "vs-kubernetes.draft-path.mac": "/Users/jorgegomes/.vs-kubernetes/tools/draft/darwin-amd64/draft"
+  },
+  "java.project.importOnFirstTimeStartup": "automatic",
+  "tabnine.experimentalAutoImports": true,
+  "[xml]": {
+    "editor.defaultFormatter": "redhat.vscode-xml"
+  }
+  }
