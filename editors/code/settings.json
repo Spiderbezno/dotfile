@@ -88,5 +88,6 @@
   "tabnine.experimentalAutoImports": true,
   "[xml]": {
     "editor.defaultFormatter": "redhat.vscode-xml"
-  }
+  },
+  "terminal.external.osxExec": "iTerm.app"
   }
