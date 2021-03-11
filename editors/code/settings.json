@@ -89,5 +89,7 @@
   "[xml]": {
     "editor.defaultFormatter": "redhat.vscode-xml"
   },
-  "terminal.external.osxExec": "iTerm.app"
+  "terminal.external.osxExec": "iTerm.app",
+  "dart.flutterSdkPath": "/Users/jorgegomes/Development/Flutter2_SDK/flutter",
+  "editor.fontSize": 14
   }

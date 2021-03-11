@@ -1,4 +1,4 @@
-export FLUTTER_HOME="/Users/jorgegomes/Development/Flutter_SDK/flutter"
+export FLUTTER_HOME="/Users/jorgegomes/Development/Flutter2_SDK/flutter"
 export JAVA_HOME=/Library/Java/JavaVirtualMachines/adoptopenjdk-11-openj9.jdk/Contents/Home
 export ANDROID_HOME=/Users/jorgegomes/Library/Android/sdk
 
